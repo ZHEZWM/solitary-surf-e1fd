@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "solitary-surf-e1fd",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "84d06429-8b5a-476c-9f8c-dc838ff29f58",
+      "database_name": "damp-cherry-6123-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
